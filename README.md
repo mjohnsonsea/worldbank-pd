@@ -1,6 +1,6 @@
 # Georgetown MSBA
 ## OPAN 6607: Programming II
-### Assignment 2: Pandas
+### Assignment 3: Aggregation and Visualization
 
 #### Assignment Summary
-An exploration of world bank data using the pandas library in python.
+An exploration of a data set using pandas and seaborn libraries in python.
